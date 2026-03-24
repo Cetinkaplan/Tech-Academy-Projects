@@ -1,0 +1,6 @@
+"My name is Cetin Selcuk Kaplan "   :) 
+
+Practice for commit and pushing to the remote repository 
+
+Test commiting 
+
