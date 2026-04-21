@@ -1,0 +1,20 @@
+/*one_page_website.css*/
+
+body {
+    background-color: lemonchiffon;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    color: darkslategray;
+}
+
+h1 {
+    color: mediumturquoise;
+    font-family: Georgia, serif;
+}
+
+form input[type="text"] {
+    width: 20%;
+    margin: 5px;
+    border: 2px solid peachpuff;
+    border-radius: 7px;
+}
