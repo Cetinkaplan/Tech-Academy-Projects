@@ -1,9 +1,7 @@
-/*one_page_website.css*/
-
 body {
     background-color: lemonchiffon;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1.5em;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Font-family */
+    font-size: 1.5em; /* Font-size */
     color: darkslategray;
 }
 
